@@ -1,4 +1,5 @@
 import "./topbar.scss"
+import {Person, Mail} from "material-ui"
 
 export default function topbar() {
   return (
