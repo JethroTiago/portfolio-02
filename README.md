@@ -1,5 +1,5 @@
 # Portfolio desenvolvido REACT
-Portfolio dev criado com <strong>REACT</strong>
+Portfolio dev criado com <strong>REACT</strong> e <strong>SASS-SCSS</strong>
 
 ### Deploy
 
@@ -11,11 +11,12 @@ Portfolio dev criado com <strong>REACT</strong>
 
 ## Como Funciona
 
-Um portfólio responsivo que mostra as ferramentas de trabalho de um desenvolvedor de Front-End e links para as suas redes sociais.
+Um portfólio responsivo que mostra as ferramentas de trabalho de um desenvolvedor de Front-End e links para as suas redes sociais. Diversos efeitos visuais foram utilizados neste projeto.
 
 ## Linguagens e estruturas de desenvolvimento:
 
 * <strong>REACT</strong>
+* SASS-SCSS
 
 ## Aprendizados:
 
