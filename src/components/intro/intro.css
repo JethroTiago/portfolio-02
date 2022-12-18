@@ -1,3 +1,10 @@
 .intro {
-  background-color: #ffa07a;
+  background-color: #fff;
+  display: flex;
+}
+.intro .left {
+  flex: 0.5;
+}
+.intro .right {
+  flex: 0.5;
 }/*# sourceMappingURL=intro.css.map */
