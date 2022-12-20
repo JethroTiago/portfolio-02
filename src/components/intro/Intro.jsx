@@ -1,5 +1,6 @@
 import React from "react";
-import "./intro.scss"
+import "./intro.scss";
+import { init } from 'ityped'
 
 export default function Intro() {
   return (
@@ -13,7 +14,7 @@ export default function Intro() {
         <div className="wrapper">
           <h2>Olá, galera!</h2>
           <h1>Jethro Tiago</h1>
-          <h3>Desenvolvedor Front-End<span></span></h3>
+          <h3>Desenvolvedor <span>Front-End</span></h3>
         </div>
         <a href="#portfolio">
           <img src="assets/down.png" alt="Seta pra baixo" />
