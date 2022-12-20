@@ -6,7 +6,7 @@ export default function Portfolio() {
     <div className="portfolio" id="portfolio">
       <h1>Portfolio</h1>
       <ul>
-        <li>React</li>
+        <li className="active">React</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>Bootstrap</li>
