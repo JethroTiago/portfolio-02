@@ -3,7 +3,7 @@ Portfolio dev criado com <strong>REACT</strong> e <strong>SASS-SCSS</strong>
 
 ### Deploy
 
--- soon --
+https://vercel.com/jethrotiago/portfolio-02
 
 ### Visualização do Projeto
 
@@ -17,6 +17,7 @@ Um portfólio responsivo que mostra as ferramentas de trabalho de um desenvolved
 
 * <strong>REACT</strong>
 * SASS-SCSS
+* Mui Icons
 
 ## Aprendizados:
 
