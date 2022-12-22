@@ -14,8 +14,32 @@ export default function Portfolio() {
       </ul>
       <div className="container">
         <div className="item">
-          <img src="" alt="" />
-          <h3>Banking App</h3>
+          <img 
+            src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/zRVheeFjiQQHGCo6ZbDgoZkq" 
+            alt="" 
+          />
+          <h3>REACT</h3>
+        </div>
+        <div className="item">
+          <img 
+            src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/zRVheeFjiQQHGCo6ZbDgoZkq" 
+            alt="" 
+          />
+          <h3>REACT</h3>
+        </div>
+        <div className="item">
+          <img 
+            src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/zRVheeFjiQQHGCo6ZbDgoZkq" 
+            alt="" 
+          />
+          <h3>REACT</h3>
+        </div>
+        <div className="item">
+          <img 
+            src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/zRVheeFjiQQHGCo6ZbDgoZkq" 
+            alt="" 
+          />
+          <h3>REACT</h3>
         </div>
       </div>
     </div>
