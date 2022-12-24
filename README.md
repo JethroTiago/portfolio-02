@@ -1,4 +1,4 @@
-# Portfolio desenvolvido REACT
+# Portfolio desenvolvido com REACT
 Portfolio dev criado com <strong>REACT</strong> e <strong>SASS-SCSS</strong>
 
 ### Deploy
